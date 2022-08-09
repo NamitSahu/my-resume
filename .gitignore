@@ -31,10 +31,10 @@
 .pub/
 /build/
 
-assets
-fonts
-lib
-test
+/assets/
+/fonts/
+/lib/
+/test/
 .metadata
 analysis_options.yaml
 my_resume.iml
