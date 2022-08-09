@@ -31,6 +31,16 @@
 .pub/
 /build/
 
+assets
+fonts
+lib
+test
+.metadata
+analysis_options.yaml
+my_resume.iml
+pubspec.yaml
+
+
 # Web related
 lib/generated_plugin_registrant.dart
 
